@@ -4,7 +4,9 @@ https://en.wikipedia.org/wiki/LaTeX
 
 https://latex-project.org/intro.html
 
+https://www.overleaf.com/gallery/tagged/presentation#.VmVcKXt4Ib1
 
+http://www.andy-roberts.net/writing/latex
 
 Resources:
 

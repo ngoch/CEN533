@@ -1,0 +1,39 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Goossens et~al.(1993)Goossens, Mittlebach, and Samarin]{goossens93}
+Michel Goossens, Frank Mittlebach, and Alexander Samarin.
+\newblock \emph{The Latex Companion}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1993.
+
+\bibitem[Greenwade(1993)]{greenwade93}
+George~D. Greenwade.
+\newblock The {C}omprehensive {T}ex {A}rchive {N}etwork ({CTAN}).
+\newblock \emph{TUGBoat}, 14\penalty0 (3):\penalty0 342--351, 1993.
+
+\bibitem[Knuth(1979)]{knuth79}
+Donald~E. Knuth.
+\newblock \emph{Tex and Metafont, New Directions in Typesetting}.
+\newblock American Mathematical Society and Digital Press, Stanford, 1979.
+
+\bibitem[Lamport(1994)]{lamport94}
+Leslie Lamport.
+\newblock \emph{Latex: A Document Preparation System}.
+\newblock Addison-Wesley, Reading, Massachusetts, second edition, 1994.
+
+\bibitem[Patashnik(1988)]{patashnik88}
+Oren Patashnik.
+\newblock {B}ib{T}e{X}ing. documentation for general {B}ib{T}e{X} users.
+\newblock Electronic document accompanying BibTeX distribution, 1988.
+
+\bibitem[Rahtz(1989)]{rahtz89}
+Sebastian Rahtz.
+\newblock A survey of {T}ex and graphics.
+\newblock Technical Report CSTR 89-7, Department of Electronics and Computer
+  Science, University of Southampton, UK, 1989.
+
+\end{thebibliography}
