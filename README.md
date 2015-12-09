@@ -8,6 +8,8 @@ https://www.overleaf.com/gallery/tagged/presentation#.VmVcKXt4Ib1
 
 http://www.andy-roberts.net/writing/latex
 
+https://en.wikibooks.org/wiki/LaTeX
+
 Resources:
 
 https://docs.google.com/document/d/1vKMj7E8qNIKHAS24vGB3Iew4LzoROsNeBjOm0F4NWME/edit

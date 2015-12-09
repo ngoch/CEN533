@@ -1,0 +1,20 @@
+\documentclass{article}
+\makeatletter
+\def\dayinmonth#1{%
+  \ifcase#1 31\or28\or31\or30\or31\or30
+            \or31\or31\or30\or31\or30\or31\fi}
+\newcommand\Today[1][0]{%
+  \advance\day by #1
+  \edef\DiM{\dayinmonth{\the\month}}
+  \ifnum\day>\DiM 
+    \day=\numexpr \the\day-\DiM\relax 
+    \advance\month\@ne
+  \fi  
+  \today}
+\makeatother
+
+\begin{document}
+
+\today -- \Today[30]
+
+\end{document}
